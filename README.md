@@ -4,4 +4,5 @@ This app is written by C# in order to control a serial camera taking multiple ph
 
 ## Demo
 
-![image](https://user-images.githubusercontent.com/64649752/221366848-f815e9ca-5948-420f-96e7-64e8abd70d54.png)
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64649752/221368803-e88ed7db-6c24-44bd-b155-6a58975d51a6.gif)
