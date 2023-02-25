@@ -1,4 +1,4 @@
-# Camera control app in .NET framework (VIsual Studio version 4.7.2)
+# Camera control app in .NET framework (Visual Studio version 4.7.2)
 
 This app is written by C# in order to control a serial camera taking multiple photos rapidly.
 
